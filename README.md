@@ -53,6 +53,7 @@ Developed by : Divya A
 ![image](https://github.com/divyaanbu-14/Mean-and-Variance/assets/155507768/b0f4603e-4db0-414f-97fa-34739fd32166)
 
 # Output : 
+![281002639-fcb2ba46-3f4a-4c47-aebe-c7ad8b453652](https://github.com/divyaanbu-14/Mean-and-Variance/assets/155507768/41b70c99-a5a4-40bf-b3c6-85763056656a)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
